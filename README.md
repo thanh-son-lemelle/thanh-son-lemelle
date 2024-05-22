@@ -74,10 +74,11 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thanh-son-lemelle&theme=yeblu&hide_border=false)
+
 
 <img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
-
-
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 
