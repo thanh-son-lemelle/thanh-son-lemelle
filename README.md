@@ -33,30 +33,29 @@
 ### ➜ Réseau :
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 ### ➜ Design :
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-<!--
+
 # 📊 GitHub Stats:
-<center>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trystan-LegrandSimon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Trystan-LegrandSimon&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trystan-LegrandSimon&theme=yeblu&hide_border=false)
-
-</center>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thanh-son-lemelle&theme=yeblu&hide_border=false)
 ### 🔝 Top Contributed Repo
 <center>
 
-![](https://github-contributor-stats.vercel.app/api?username=Trystan-LegrandSimon&limit=5&theme=yeblu&hide_border=false&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=thanh-son-lemelle&limit=5&theme=yeblu&hide_border=false&combine_all_yearly_contributions=true)
 
 </center>
 
----
+<img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=146708391)
+
 <!--
 **thanh-son-lemelle/thanh-son-lemelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,18 +70,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thanh-son-lemelle&theme=yeblu&hide_border=false)
-### 🔝 Top Contributed Repo
-<center>
-
-![](https://github-contributor-stats.vercel.app/api?username=thanh-son-lemelle&limit=5&theme=yeblu&hide_border=false&combine_all_yearly_contributions=true)
-
-<img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=146708391)
