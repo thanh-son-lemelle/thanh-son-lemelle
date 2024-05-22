@@ -68,9 +68,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
-</a>
+### ➜ Stats :
+
+
+<img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
+
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
