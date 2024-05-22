@@ -71,8 +71,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ➜ Stats :
+# 📊 GitHub Stats:
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh-son-lemelle&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=for-the-badge">
 
