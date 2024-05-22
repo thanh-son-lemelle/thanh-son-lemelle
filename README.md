@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <center>
-![](https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thanh-lemelle)
 
 ***Actuellement en recherche d'Alternance dans le domaine du développement logiciel.***
