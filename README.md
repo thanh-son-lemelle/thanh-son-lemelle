@@ -2,7 +2,7 @@
 
 <center>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(www.linkedin.com/in/thanh-lemelle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thanh-lemelle)
 
 ***Actuellement en recherche d'Alternance dans le domaine du développement logiciel.***
 
