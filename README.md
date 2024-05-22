@@ -1,7 +1,10 @@
 # 💫 About Me:
 
 <center>
-![Profile views](https://komarev.com/ghpvc/?username=thanh-son-lemelle&style=flat-square)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/thanh-son-lemelle/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thanh-lemelle)
 
 ***Actuellement en recherche d'Alternance dans le domaine du développement logiciel.***
